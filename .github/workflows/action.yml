@@ -20,7 +20,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: 'true'
           SHOW_PROJECTS: 'False'
-      - uses: dongweimng/douban-activity-readme@v1
-        with:
+      - uses: dongweiming/douban-activity-readme@v1
+          with:
           uid: 4266786
           max_count: 5
