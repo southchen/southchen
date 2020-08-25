@@ -21,6 +21,6 @@ jobs:
           SHOW_LINES_OF_CODE: 'true'
           SHOW_PROJECTS: 'False'
       - uses: dongweiming/douban-activity-readme@v1
-          with:
-            uid: 4266786
-            max_count: 5
+        with:
+          uid: 4266786
+          max_count: 5
