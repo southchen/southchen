@@ -62,9 +62,9 @@ Mac               8 hrs 35 mins       ██████░░░░░░░░
 ## Reading
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [转发 FoxJin 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3082287117/)
 - [转发 迷特波鲁 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3081001491/)
 - [转发 Summers 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3079637476/)
 - [想读 鸟瞰古文明](https://www.douban.com/doubanapp/dispatch?uri=/status/3076344281/)
 - [转发 豆瓣时间 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3075462821/)
-- [在读 创造时间](https://www.douban.com/doubanapp/dispatch?uri=/status/3072391701/)
 <!-- DOUBAN-ACTIVITIES:END -->
