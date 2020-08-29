@@ -62,9 +62,9 @@ Mac               8 hrs 36 mins       ███████░░░░░░░
 ## Reading
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 水彩物语 造型与配色的基础训练](https://www.douban.com/doubanapp/dispatch?uri=/status/3086792802/)
+- [读过 好好赚钱](https://www.douban.com/doubanapp/dispatch?uri=/status/3086792140/)
 - [转发 汗青堂 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3084610684/)
 - [关注 汗青堂](https://www.douban.com/doubanapp/dispatch?uri=/status/3084609875/)
 - [转发 FoxJin 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3082287117/)
-- [转发 迷特波鲁 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3081001491/)
-- [转发 Summers 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3079637476/)
 <!-- DOUBAN-ACTIVITIES:END -->
