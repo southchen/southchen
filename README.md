@@ -62,9 +62,9 @@ Mac               1 hr 48 mins        ██░░░░░░░░░░░░
 ## Reading
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [读过 行为设计学(打造峰值体验)(精)](https://www.douban.com/doubanapp/dispatch?uri=/status/3089552571/)
+- [在读 行为设计学(零成本改变)](https://www.douban.com/doubanapp/dispatch?uri=/status/3089552375/)
+- [读过 行为设计学](https://www.douban.com/doubanapp/dispatch?uri=/status/3089551929/)
 - [读过 水彩物语 造型与配色的基础训练](https://www.douban.com/doubanapp/dispatch?uri=/status/3086792802/)
 - [读过 好好赚钱](https://www.douban.com/doubanapp/dispatch?uri=/status/3086792140/)
-- [转发 汗青堂 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3084610684/)
-- [关注 汗青堂](https://www.douban.com/doubanapp/dispatch?uri=/status/3084609875/)
-- [转发 FoxJin 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3082287117/)
 <!-- DOUBAN-ACTIVITIES:END -->
