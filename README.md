@@ -62,9 +62,9 @@ Mac               1 hr                ███░░░░░░░░░░░
 ## Reading
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想读 人生算法](https://www.douban.com/doubanapp/dispatch?uri=/status/3093399955/)
 - [在读 非对称风险](https://www.douban.com/doubanapp/dispatch?uri=/status/3092709473/)
 - [在读 深入理解TypeScript](https://www.douban.com/doubanapp/dispatch?uri=/status/3092709384/)
 - [读过 行为设计学(打造峰值体验)(精)](https://www.douban.com/doubanapp/dispatch?uri=/status/3089552571/)
 - [在读 行为设计学(零成本改变)](https://www.douban.com/doubanapp/dispatch?uri=/status/3089552375/)
-- [读过 行为设计学](https://www.douban.com/doubanapp/dispatch?uri=/status/3089551929/)
 <!-- DOUBAN-ACTIVITIES:END -->
