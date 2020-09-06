@@ -62,9 +62,9 @@ Mac               3 hrs 38 mins       ███████░░░░░░░
 ## Reading
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [转发小组讨论 刚刚中华骨髓库给我打电话说我跟一个白血病患者配型成功了，问我愿意不愿意](https://www.douban.com/doubanapp/dispatch?uri=/status/3097001885/)
 - [想读 人生算法](https://www.douban.com/doubanapp/dispatch?uri=/status/3093399955/)
 - [在读 非对称风险](https://www.douban.com/doubanapp/dispatch?uri=/status/3092709473/)
 - [在读 深入理解TypeScript](https://www.douban.com/doubanapp/dispatch?uri=/status/3092709384/)
 - [读过 行为设计学(打造峰值体验)(精)](https://www.douban.com/doubanapp/dispatch?uri=/status/3089552571/)
-- [在读 行为设计学(零成本改变)](https://www.douban.com/doubanapp/dispatch?uri=/status/3089552375/)
 <!-- DOUBAN-ACTIVITIES:END -->
