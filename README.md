@@ -62,9 +62,9 @@ Mac               3 hrs 38 mins       ███████░░░░░░░
 ## Reading
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 重启之极海听雷 第一季‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3098679618/)
+- [想看 重启之极海听雷 第二季‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3098679586/)
 - [说: 连想读，读过都不能标记啊？？！！！没法儿活了！ ](https://www.douban.com/doubanapp/dispatch?uri=/status/3097078333/)
 - [转发小组讨论 刚刚中华骨髓库给我打电话说我跟一个白血病患者配型成功了，问我愿意不愿意](https://www.douban.com/doubanapp/dispatch?uri=/status/3097001885/)
 - [想读 人生算法](https://www.douban.com/doubanapp/dispatch?uri=/status/3093399955/)
-- [在读 非对称风险](https://www.douban.com/doubanapp/dispatch?uri=/status/3092709473/)
-- [在读 深入理解TypeScript](https://www.douban.com/doubanapp/dispatch?uri=/status/3092709384/)
 <!-- DOUBAN-ACTIVITIES:END -->
