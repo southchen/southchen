@@ -4,7 +4,7 @@
 
 - 🎓 I got my doctor degree in Materials Sci & Eng from UNSW Sydney :koala:
 
-- :computer: I’m currently working as a FE web developer and actively looking for a new position (temporally in Beijing)
+- :computer: I’m currently working as a full-time FE web developer ~~and actively looking for a new position (temporally in Beijing)~~
 
 - :paintbrush: I'm experienced in designing and developing visual contents for commercial and academic organization in :australia: & :cn:
 
@@ -37,6 +37,7 @@
 ## 📊 Coding summary
 
 <!--START_SECTION:waka-->
+
 ```text
 Week: 03 September, 2020 - 10 September, 2020
 
@@ -56,15 +57,6 @@ Windows           3 hrs 44 mins       ████████░░░░░░
 
 ```
 
-
 <!--END_SECTION:waka-->
 
-## Reading
-
-<!-- DOUBAN-ACTIVITIES:START -->
-- [转发 琴  酒 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3099774024/)
-- [看过 重启之极海听雷 第一季‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3098679618/)
-- [想看 重启之极海听雷 第二季‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3098679586/)
-- [说: 连想读，读过都不能标记啊？？！！！没法儿活了！ ](https://www.douban.com/doubanapp/dispatch?uri=/status/3097078333/)
-- [转发小组讨论 刚刚中华骨髓库给我打电话说我跟一个白血病患者配型成功了，问我愿意不愿意](https://www.douban.com/doubanapp/dispatch?uri=/status/3097001885/)
-<!-- DOUBAN-ACTIVITIES:END -->
+<!-- ## Reading -->
