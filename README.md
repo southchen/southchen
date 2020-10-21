@@ -26,7 +26,7 @@
 <p align='left'>
 <div style="display:inline-block">
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/JavaScript.svg" height="40em"  alt="javascript"/>
-  <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/ts.svg" height="40em"  alt="typescript"/>
+<img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/ts.svg" height="40em"  alt="typescript"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/react.svg" height="40em"  alt="react"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/Vue.svg" height="40em"  alt="vue"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/Adobe Ai.svg" height="40em"  alt="adobe ai"/>
@@ -46,17 +46,17 @@
 ```text
 Week: 13 October, 2020 - 20 October, 2020
 
-💬 编程语言: 
-TypeScript        57 hrs 46 mins      ████████████████████████░   99.23% 
-Other             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-JSON              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-JavaScript        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
+💬 编程语言:
+TypeScript        57 hrs 46 mins      ████████████████████████░   99.23%
+Other             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+JSON              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+JavaScript        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 Bash              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
-🔥 常用编辑器: 
+🔥 常用编辑器:
 VS Code           58 hrs 13 mins      █████████████████████████   100.0%
 
-💻 操作系统: 
+💻 操作系统:
 Mac               58 hrs 13 mins      █████████████████████████   100.0%
 
 ```
