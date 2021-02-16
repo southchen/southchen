@@ -46,13 +46,13 @@
 ```text
 Week: 08 February, 2021 - 15 February, 2021
 
-💬 编程语言: 
+💬 编程语言:
 No Activity tracked this Week
 
-🔥 常用编辑器: 
+🔥 常用编辑器:
 No Activity tracked this Week
 
-💻 操作系统: 
+💻 操作系统:
 No Activity tracked this Week
 
 ```
