@@ -26,6 +26,8 @@
 <p align='left'>
 <div style="display:inline-block">
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/JavaScript.svg" height="40em"  alt="javascript"/>
+<img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/ts.svg" height="40em"  alt="typescript"/>
+<img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/react.svg" height="40em"  alt="react"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/Vue.svg" height="40em"  alt="vue"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/Adobe Ai.svg" height="40em"  alt="adobe ai"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/Adobe Lr.svg" height="40em"  alt="adobe lr"/>
@@ -34,39 +36,31 @@
 </div>
 </p>
 
-## Current learning 📚
 
-<p align='left'>
-<div style="display:inline-block">
-<img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/ts.svg" height="40em"  alt="typescript"/>
-<img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/react.svg" height="40em"  alt="react"/>
 
-</div>
-</p>
+
 
 ## 📊 Coding summary
 
 <!--START_SECTION:waka-->
-
 ```text
-Week: 07 September, 2020 - 14 September, 2020
+Week: 26 July, 2021 - 02 August, 2021
 
-💬 编程语言:
+💬 编程语言: 
+TypeScript        56 hrs 37 mins      ████████████████████████░   98.84% 
+Other             28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
+Bash              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+JavaScript        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+Perl              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
-TypeScript        18 hrs 38 mins      █████████████████░░░░░░░░   71.31%
-Other             4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97%
-JavaScript        1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
-JSON              1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
-HTML              33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
+🔥 常用编辑器: 
+VS Code           57 hrs 17 mins      █████████████████████████   100.0%
 
-🔥 常用编辑器:
-VS Code           26 hrs 9 mins       █████████████████████████   100.0%
-
-💻 操作系统:
-Mac               26 hrs 9 mins       █████████████████████████   100.0%
-
+💻 操作系统: 
+Mac               57 hrs 17 mins      █████████████████████████   100.0%
 
 ```
+
 
 <!--END_SECTION:waka-->
 
