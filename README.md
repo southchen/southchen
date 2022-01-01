@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 30 December, 2021
+Week: 24 December, 2021 - 31 December, 2021
 
 💬 编程语言: 
 TypeScript        26 hrs 3 mins       ██████████████████████░░░   90.2% 
