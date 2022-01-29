@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 27 January, 2022
+Week: 21 January, 2022 - 28 January, 2022
 
 💬 编程语言: 
 TypeScript        30 hrs 43 mins      ████████████████████████░   96.81% 
