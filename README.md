@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 06 February, 2022
+Week: 31 January, 2022 - 07 February, 2022
 
 💬 编程语言: 
 No Activity tracked this Week
