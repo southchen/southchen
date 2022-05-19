@@ -4,7 +4,7 @@
 
 - 🎓 I got my doctor degree in Materials Sci & Eng from UNSW Sydney :koala:
 
-- :computer: I’m currently working as a full-time FE web developer ~~and actively looking for a new position (temporally in Beijing)~~
+- :computer: I’m currently working as a full-time FE web developer and actively looking for a new position in Sydney in June 2022
 
 - :paintbrush: I'm experienced in designing and developing visual contents for commercial and academic organization in :australia: & :cn:
 
