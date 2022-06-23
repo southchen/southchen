@@ -20,4 +20,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: 'True'
           SHOW_PROJECTS: 'False'
-          SHOW_TOTAL_CODE_TIME: 'True'
