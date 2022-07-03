@@ -4,7 +4,7 @@
 
 - 🎓 I got my doctor degree in Materials Sci & Eng from UNSW Sydney :koala:
 
-- :computer: I’m currently working as a full-time FE web developer and actively looking for a new position in Sydney in June 2022
+- :computer: I’m currently working as a full-time FE web developer and actively looking for a new position in Sydney
 
 - :paintbrush: I'm experienced in designing and developing visual contents for commercial and academic organization in :australia: & :cn:
 
@@ -36,27 +36,23 @@
 </div>
 </p>
 
-
-
-
-
 ## 📊 Coding summary
 
 <!--START_SECTION:waka-->
+
 ```text
 Week: 28 May, 2022 - 04 June, 2022
 
-💬 编程语言: 
+💬 编程语言:
 JavaScript        20 hrs 13 mins      █████████████████████████   100.0%
 
-🔥 常用编辑器: 
+🔥 常用编辑器:
 VS Code           20 hrs 13 mins      █████████████████████████   100.0%
 
-💻 操作系统: 
+💻 操作系统:
 Mac               20 hrs 13 mins      █████████████████████████   100.0%
 
 ```
-
 
 <!--END_SECTION:waka-->
 
