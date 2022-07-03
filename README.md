@@ -28,6 +28,7 @@
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/JavaScript.svg" height="40em"  alt="javascript"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/ts.svg" height="40em"  alt="typescript"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/react.svg" height="40em"  alt="react"/>
+<img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/nodejs.png" height="40em"  alt="nodejs"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/Vue.svg" height="40em"  alt="vue"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/Adobe Ai.svg" height="40em"  alt="adobe ai"/>
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/Adobe Lr.svg" height="40em"  alt="adobe lr"/>
