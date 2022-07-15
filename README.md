@@ -4,7 +4,7 @@
 
 - 🎓 I got my doctor degree in Materials Sci & Eng from UNSW Sydney :koala:
 
-- :computer: I’m actively looking for a new position in Sydney
+- :computer: I’m a frontend developer in Sydney
 
 - :paintbrush: I'm experienced in designing and developing visual contents for commercial and academic organization in :australia: & :cn:
 
