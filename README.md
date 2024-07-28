@@ -8,9 +8,9 @@
 
 - :paintbrush: I'm experienced in designing and developing visual content for commercial and academic organizations in :australia: & :cn:
 
-- :sunny: Spare time: :books: Reading - :bread: Baking - :camera: Photograph - :art: Painting - :coffee: Coffee - 💪Workout
+- :sunny: :camera: Photograph - ::bread: Baking - :art: Painting - books: Reading - :coffee: Coffee - 💪Workout
 
-- 📑: <a href="https://cliff-order-682.notion.site/Dr-Nan-Chen-f34e2035a1514258afc1d3ee789d2e8e" style="text-decoration: none;">Online Resume</a>
+- 📑 <a href="https://cliff-order-682.notion.site/Dr-Nan-Chen-f34e2035a1514258afc1d3ee789d2e8e" style="text-decoration: none;">Online Resume</a>
 
 
 ## 💬 Find me
@@ -23,7 +23,7 @@
 </a>
 </div>
 
-## Stacks 👨‍💻 🛠
+## 👨‍💻 Stacks 
 
 <p align='left'>
 <div style="display:inline-block">
