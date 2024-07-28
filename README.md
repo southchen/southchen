@@ -2,19 +2,21 @@
 
 ## About me
 
-- 🎓 I got my doctor degree in Materials Sci & Eng from UNSW Sydney :koala:
+- 🎓 I got my doctorate degree in Materials Sci & Eng from UNSW Sydney :koala:
 
-- :computer: I’m currently working as a full-time FE web developer and actively looking for a new position in Sydney
+- :computer: I'm a fronted-end developer based in Syd with 4 YOE in JavaScript, TypeScript, and ReactJS.
 
-- :paintbrush: I'm experienced in designing and developing visual contents for commercial and academic organization in :australia: & :cn:
+- :paintbrush: I'm experienced in designing and developing visual content for commercial and academic organizations in :australia: & :cn:
 
 - :sunny: Spare time: :books: Reading - :bread: Baking - :camera: Photograph - :art: Painting - :coffee: Coffee - 💪Workout
 
+- 📑: [Online Resume](https://cliff-order-682.notion.site/Dr-Nan-Chen-f34e2035a1514258afc1d3ee789d2e8e)
+
+
 - 💬 Find me:
 <div align="center">
-<a href="https://www.instagram.com/divetothesea/">
-
-<img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/instagram.svg" height="40em"  alt="divetothesea instagram"/>
+<a href="https://www.linkedin.com/in/nan-chen-1517a79a/">
+<img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/linkedIn.png" height="40em"  alt="linkedIn"/>
 </a>
 <a href="https://www.behance.net/southchen">
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/Behance.svg" height="40em"  alt="behance"/>
