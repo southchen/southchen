@@ -10,11 +10,11 @@
 
 - :sunny: Spare time: :books: Reading - :bread: Baking - :camera: Photograph - :art: Painting - :coffee: Coffee - 💪Workout
 
-- 📑: <a href="https://cliff-order-682.notion.site/Dr-Nan-Chen-f34e2035a1514258afc1d3ee789d2e8e" style="text-decoration: none">Online Resume</a>
+- 📑: <a href="https://cliff-order-682.notion.site/Dr-Nan-Chen-f34e2035a1514258afc1d3ee789d2e8e" style="text-decoration: none;">Online Resume</a>
 
 
 ## 💬 Find me
-<div style="padding-left:30px">
+<div style="padding-left:30px;">
 <a href="https://www.linkedin.com/in/nan-chen-1517a79a/">
 <img src="https://raw.githubusercontent.com/southchen/southchen/master/assets/linkedIn.png" height="40em"  alt="linkedIn"/>
 </a>
