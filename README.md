@@ -44,11 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 32 mins   █████████████████████▓░░░   86.95 %
-C#           31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-CSHTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
