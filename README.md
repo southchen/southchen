@@ -44,11 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 3 mins          █████████████████████▓░░░   86.54 %
-JSON         21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-C#           11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Markdown     11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-CSHTML       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
